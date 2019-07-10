@@ -9,16 +9,10 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Vishnu Yeni Shetty, do you want to know about AI ML
+            Hi, This is Vishnu Yeni Shetty
+            We will use this website for future deployments
           </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          
         </header>
       </div>
     );
